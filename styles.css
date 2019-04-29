@@ -3,6 +3,7 @@
 }
 
 body {
+  position: relative;
   background-color: #e1e2e1;
 }
 
@@ -114,10 +115,10 @@ main {
 
 .overlay {
   position: absolute;
-  top: 0;
+  top: -25px;
   left: 0;
   right: 0;
-  bottom: 0;
+  bottom: -15px;
   background: rgba(45, 44, 44, 0.8);
 }
 
