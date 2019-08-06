@@ -1,3 +1,5 @@
+![Startup employee directory screenshot](https://res.cloudinary.com/dqe0hw0ru/image/upload/v1565109431/startup.png)
+
 # 🔎 Employee Directory
 ### Employee directory project based on the [Treehouse Front-End Techdegree](https://join.teamtreehouse.com/techdegree/)
 
